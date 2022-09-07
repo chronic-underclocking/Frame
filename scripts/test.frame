@@ -1,0 +1,70 @@
+Options
+{
+	overwrite: yes
+	reencode: yes
+	output: "C:\Users\basse\Desktop\"
+    debug: yes
+}
+Video wildlife 
+{
+	path : "C:\Users\basse\Desktop\sample_video.mp4"	
+	//format : avi
+	//codec: h264
+	//codec: mp3
+}
+
+Video meme
+{
+	path : "C:\Users\basse\Desktop\sample2.mp4"
+	//resolution: 1280 x 720
+}
+
+
+Audio september_sun
+{
+    path: "C:\Users\basse\Desktop\04 - September Sun.mp3"
+    //codec: opus
+    //bitrate: 128
+    //sample rate: 22050
+    //pitch: 44100
+    //tempo: 1.5
+}
+
+Audio moving_away
+{
+	path: "C:\Users\basse\Desktop\20 - Moving Away.mp3"
+}
+
+Frame img
+{
+	path: "C:\Users\basse\Desktop\Capture.png"
+}
+
+Frame img2
+{
+	path: "C:\Users\basse\Desktop\3.jpg"
+	//resolution: 1920 x 1080
+}
+
+//show audio vectorscope for moving_away drawing mode dot as vectorinoo
+//concatenate img img2 as images
+//concatenate september_sun moving_away as wrong
+//convert wildlife format wmv as wmveed
+//set volume for wildlife 10 as volumed
+//set saturation for wildlife 2 as saturated
+//set gamma for wildlife 2 as gammad
+//set framerate for wildlife 60 as framed
+flip wildlife hflip as rotataa
+//flip img vflip
+//rotate wildlife 180 as rotated
+//merge wildlife with september_sun as hoorah
+//trim hoorah from "00:00:20" to "00:00:29"
+//trim nothingg from "00:00:01" to "00:00:04"
+//extract frames from wildlife format jpg ratio 1 5 as boii
+//trim wildlife from "00:00:12" to "00:00:17" as birds
+//trim wildlife from "00:00:05" to "00:00:15"
+//trim wildlife from "00:00:01" to "00:00:07"
+//trim birds from "00:00:01" to "00:00:03"
+//trim september_sun from "00:03:07" to "00:04:17" as leave_her save to "C:\Users\basse\Desktop\Relaxing"
+//crop wildlife width 100 height 200 at position 1100 701
+//overlay wildlife on img at position 70 650 as overlayed_stuff

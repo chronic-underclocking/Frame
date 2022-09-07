@@ -1,0 +1,23 @@
+Options
+{
+    reencode: yes
+    overwrite: yes
+    output: "C:\Users\basse\Desktop"
+}
+
+Video nature
+{
+    path: "C:\Users\basse\Desktop\sample_video.mp4"
+    format: wmv
+    resolution: 480 x 360
+}
+
+Audio september_sun
+{
+    path: "C:\Users\basse\Desktop\04 - September Sun.mp3"
+    codec: opus
+    bitrate: 320
+}
+
+// Merging
+merge september_sun with nature as september_nature
